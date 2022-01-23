@@ -8,6 +8,8 @@ test('creates a manager object', () => {
 });
 
 // getRole() method
+test('gets manager role', () => {
 const manager = new Manager('Marcus', 8, 'marcus.morua@gmail.com', 1);
 
 expect(manager.getRole()).toEqual('Manager');
+});
