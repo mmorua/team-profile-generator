@@ -1,4 +1,6 @@
 # Team Profile Generator 
+<img width="1440" alt="Screen Shot 2022-01-24 at 6 22 15 PM" src="https://user-images.githubusercontent.com/91860506/150887444-22f6c718-d9dd-4f8b-ab69-a6bdd3364a2c.png">
+
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
@@ -31,3 +33,4 @@ Run `npm test` to run Jest for tests on constructors.
 
 ## Questions
 If you have any questions about this projects, please contact me directly at marcus.morua@gmail.com. You can view more of my projects at https://github.com/mmorua.
+
