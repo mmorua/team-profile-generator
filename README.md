@@ -17,8 +17,8 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here, Part 1/Using the application - [Screencastify](https://drive.google.com/file/d/1Bc5y8Gu0q9SSNtGmq-_coCr8wO5Kgs9x/view?usp=sharing)<br>
-Part 2/Successfull Jest tests - [Screencastify](https://drive.google.com/file/d/175h7m8nAEXKtxfkAcMiHh3xoddSL8qG8/view?usp=sharing)
+View walk through video here, Part 1: Using the application - [Screencastify](https://drive.google.com/file/d/1Bc5y8Gu0q9SSNtGmq-_coCr8wO5Kgs9x/view?usp=sharing)<br>
+Part 2: Successful Jest tests - [Screencastify](https://drive.google.com/file/d/175h7m8nAEXKtxfkAcMiHh3xoddSL8qG8/view?usp=sharing)
 
 ## License 
 This project is license under MIT
